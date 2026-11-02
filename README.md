@@ -2,7 +2,6 @@
 
 共享相机/IMU、原始手柄传输、时间戳和缓冲所有权。
 
-实际功能源码首次按仓库所有权整理，来源和导入前后 SHA-256 见 `provenance/source-import.json`。原有历史构建与设备结果不自动等同于拆分后的设备验收。
 
 构建入口和依赖见下方；工程 Wiki/Blog 与跨仓库规划集中在 [qiyu-docs](https://github.com/bitsk/qiyu-docs)。
 
